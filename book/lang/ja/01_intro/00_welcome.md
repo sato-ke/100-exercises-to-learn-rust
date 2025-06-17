@@ -78,7 +78,7 @@ git checkout -b my-solutions
   - [RustRover](https://www.jetbrains.com/rust/)
   - [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)拡張機能を備えた[Visual Studio Code](https://code.visualstudio.com)
 
-### ワークショップランナー、`wr`
+### ワークショップランナー、`wr` {#wr-the-workshop-runner}
 
 解答を検証するために、コースを進めるためのツールも提供しています：`wr` CLI、「ワークショップランナー」の略です。
 `wr`は[そのウェブサイト](https://mainmatter.github.io/rust-workshop-runner/)の指示に従ってインストールしてください。
